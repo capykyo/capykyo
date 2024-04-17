@@ -16,7 +16,7 @@ I am focusing on the web3 track, hoping to create some interesting Dapps.
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-black?style=flat-square&logo=tailwindcss)
 ![SUI](https://img.shields.io/badge/-SUI-black?style=flat-square&logo=sui)
 ![Move](https://img.shields.io/badge/-Move-black?style=flat-square&logo=move)
-![]()
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 ![]()
 ![]()
 ![]()
