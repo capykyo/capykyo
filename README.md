@@ -1,12 +1,10 @@
-# Welcome to My GitHub Profile! 👋
+# Hi
 
-## 👨‍💻 About Me
+## About Me
 
-I am a passionate software developer specializing in Dapp development and open source contributions.
+I am focusing on the web3 track, hoping to create some interesting Dapps.
 
-- 🌱 I’m currently learning **Move and Dapp**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: **[twitter]()**
+- I’m currently learning **Move and Dapp**
 
 ## 🛠️ Technologies and Tools
 
@@ -15,6 +13,13 @@ I am a passionate software developer specializing in Dapp development and open s
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-black?style=flat-square&logo=tailwindcss)
+![SUI](https://img.shields.io/badge/-SUI-black?style=flat-square&logo=sui)
+![Move](https://img.shields.io/badge/-Move-black?style=flat-square&logo=move)
+![]()
+![]()
+![]()
+![]()
 
 ## 📈 GitHub Stats
 
