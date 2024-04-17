@@ -1,7 +1,5 @@
 # Hi
 
-## About Me
-
 I am focusing on the web3 track, hoping to create some interesting Dapps.
 
 - I’m currently learning **Move and Dapp**
